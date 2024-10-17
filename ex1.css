@@ -1,0 +1,33 @@
+body{
+    width: 90%;
+    background: linear-gradient(#ffffff , #ff002b );
+}
+
+#img1{
+    width: 80%;
+}
+#navi{
+    text-align: end;
+    
+}
+#img2{
+    padding-left: 50%;
+    padding-right: 50%;
+}
+li{
+    display: inline-block;
+    padding: 5px;
+    background: #c7c8f1;
+    width: 150px;
+    text-align: center;
+    border-radius: 10px;
+
+}
+nav{
+    position: fixed;
+    top: 0;
+    border-top: none;
+}
+div{
+    margin: 10%;
+}
